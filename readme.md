@@ -1,12 +1,12 @@
-Hello! this is a thing made by wadwdwd (discord) wadwdwd1 on github!
+Made by emperorsmileyYT
+
+USE EAGLER.HOST TOO! GET A FREE EAGLER 1.12.2 SERVER IN A FEW CLICKS! THEY ALSO HAVE AN AWESOME SERVER LIST TOO!!!!
+GO CHECK THEM OUT AT https://eagler.host and https://topeaglerservers.com!!! USE MY LINK TO HELP MY SERVER---> https://eagler.host/earn/SmileySMP
 
 
-for questions/support
-join 
-https://discord.gg/jUmqKWnQKg
 
 
-STEPS TO MAKE A SERVER!!!!!
+STEPS TO MAKE A SERVER USING THIS!!!
 
 1. create 3 new terminals
 Paste this in the first one
